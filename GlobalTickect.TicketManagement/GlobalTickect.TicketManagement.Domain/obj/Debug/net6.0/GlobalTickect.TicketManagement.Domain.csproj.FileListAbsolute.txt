@@ -1,0 +1,12 @@
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\bin\Debug\net6.0\GlobalTickect.TicketManagement.Domain.deps.json
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\bin\Debug\net6.0\GlobalTickect.TicketManagement.Domain.dll
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\bin\Debug\net6.0\GlobalTickect.TicketManagement.Domain.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\obj\Debug\net6.0\GlobalTickect.TicketManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\obj\Debug\net6.0\GlobalTickect.TicketManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\obj\Debug\net6.0\GlobalTickect.TicketManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\obj\Debug\net6.0\GlobalTickect.TicketManagement.Domain.AssemblyInfo.cs
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\obj\Debug\net6.0\GlobalTickect.TicketManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\obj\Debug\net6.0\GlobalTickect.TicketManagement.Domain.dll
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\obj\Debug\net6.0\refint\GlobalTickect.TicketManagement.Domain.dll
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\obj\Debug\net6.0\GlobalTickect.TicketManagement.Domain.pdb
+C:\Users\OUSMANE\Desktop\Development\Web\CleanArchitectureDotNet\GlobalTickect.TicketManagement\GlobalTickect.TicketManagement.Domain\obj\Debug\net6.0\ref\GlobalTickect.TicketManagement.Domain.dll

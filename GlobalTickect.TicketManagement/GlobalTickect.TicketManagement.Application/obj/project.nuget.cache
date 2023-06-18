@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "BVGr6y9vUhLOAxfQyobJpF6yHxEsaf1gaLQackDfA5k5jDtOb6Y2Zh9Z5wJg8yyzoiQs81Wib4XImU/0Vbtj7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OUSMANE\\Desktop\\Development\\Web\\CleanArchitectureDotNet\\GlobalTickect.TicketManagement\\GlobalTickect.TicketManagement.Application\\GlobalTickect.TicketManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\OUSMANE\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

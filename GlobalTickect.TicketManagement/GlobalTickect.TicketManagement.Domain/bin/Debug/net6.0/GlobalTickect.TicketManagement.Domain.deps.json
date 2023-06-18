@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GlobalTickect.TicketManagement.Domain/1.0.0": {
+        "runtime": {
+          "GlobalTickect.TicketManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GlobalTickect.TicketManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
