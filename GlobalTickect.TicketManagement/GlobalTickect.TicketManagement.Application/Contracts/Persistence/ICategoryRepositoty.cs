@@ -1,4 +1,5 @@
 ﻿using GlobalTickect.TicketManagement.Domain.Entities;
+using GloboTicket.TicketManagement.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
