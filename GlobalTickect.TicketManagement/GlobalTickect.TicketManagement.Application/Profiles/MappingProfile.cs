@@ -4,6 +4,7 @@ using GlobalTickect.TicketManagement.Application.Features.Events;
 using GlobalTickect.TicketManagement.Application.Features.Events.Queries.GetEvenDetail;
 using GlobalTickect.TicketManagement.Application.Features.Events.Queries.GetEvenList;
 using GlobalTickect.TicketManagement.Domain.Entities;
+using GloboTicket.TicketManagement.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

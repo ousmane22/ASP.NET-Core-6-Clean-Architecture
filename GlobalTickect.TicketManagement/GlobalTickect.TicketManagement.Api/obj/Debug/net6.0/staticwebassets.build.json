@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VhiplHaoY4wqZWJw2VC5xNHSk9jQXkukLc+okBHuu0A=",
+  "Source": "GlobalTickect.TicketManagement.Api",
+  "BasePath": "_content/GlobalTickect.TicketManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

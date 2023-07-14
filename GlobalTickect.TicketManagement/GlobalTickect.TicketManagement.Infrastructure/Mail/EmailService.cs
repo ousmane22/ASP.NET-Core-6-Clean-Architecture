@@ -1,5 +1,6 @@
 ﻿using GlobalTickect.TicketManagement.Application.Contracts.Infrastructure;
 using GlobalTickect.TicketManagement.Application.Models;
+using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using SendGrid;
 using SendGrid.Helpers.Mail;
@@ -32,7 +33,7 @@ namespace GlobalTickect.TicketManagement.Infrastructure.Mail
 
             var from = new EmailAddress
             {
-                Email = _emailSettings.FromAddress
+                Email = _emailSettings.FromAddress,
                 Name = _emailSettings.FromName
                 
             };

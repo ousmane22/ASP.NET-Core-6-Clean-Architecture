@@ -22,7 +22,7 @@ namespace GlobalTickect.TicketManagement.Application.Features.Events.Queries.Get
         }
         public async Task<List<EventListWm>> Handle(GetEvensListQuery request, CancellationToken cancellationToken)
         {
-            var allEvents = (await _asyncRepository.ListAsync())
+            var allEvents = (await _asyncRepository.ListAllAsync())
                 .OrderBy(x => x.Date);
             return _mapper.Map<List<EventListWm>>(allEvents);
         }

@@ -16,8 +16,19 @@ namespace GlobalTickect.TicketManagement.Persistence
     {
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services ,IConfiguration configuration)
         {
+           
+            string connectionString = configuration.GetConnectionString("GlobalTicketManagementConnectionString");
+
+            // Configure the MySQL server version.
+            var serverVersion = new MySqlServerVersion(new Version(8, 0, 33));
+
+            // Add the DbContext to the services.
             services.AddDbContext<GloboTicketDbContext>(options =>
-               options.UseSqlServer(configuration.GetConnectionString("GlobalTicketManagementConnectionString")));
+                options.UseMySql(connectionString, serverVersion)
+                    .EnableSensitiveDataLogging()
+                    .EnableDetailedErrors()
+            );
+
 
             services.AddScoped(typeof(IAsyncRepository<>),typeof(BaseRepository<>));
 

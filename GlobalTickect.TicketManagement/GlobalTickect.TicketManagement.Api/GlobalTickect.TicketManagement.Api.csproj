@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.9">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GlobalTickect.TicketManagement.Application\GlobalTickect.TicketManagement.Application.csproj" />
+    <ProjectReference Include="..\GlobalTickect.TicketManagement.Infrastructure\GlobalTickect.TicketManagement.Infrastructure.csproj" />
+    <ProjectReference Include="..\GlobalTickect.TicketManagement.Persistence\GlobalTickect.TicketManagement.Persistence.csproj" />
+  </ItemGroup>
+
+</Project>
